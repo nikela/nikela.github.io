@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikela Papadopoulou - Personal website"
+title                    : "Nikela Papadopoulou webpage"
 title_separator          : "-"
 name                     : &name "Nikela Papadopoulou"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nikela Papadopoulou"
   avatar           : "profile.png"
-  bio              : "Post-doctoral researcher #HPC #parallel"
+  bio              : "Post-doctoral researcher"
   location         : "Sweden"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LJ1SVE0AAAAJ"
-  email            : "nikela.papadopoulou@gmail.com | nikela@chalmers.se"
+  email            : "nikela.papadopoulou@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/nikela"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-2141-5654"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_nikela_"
   vine             :
   weibo            :
   xing             :
