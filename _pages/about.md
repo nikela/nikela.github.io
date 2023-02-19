@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a post-doctoral researcher at the Computer Systems division of the [CSE]() department of [Chalmers University of Technology]() in Sweden. 
+Welcome! I am a post-doctoral researcher at the Computer Systems division of the [CSE](https://www.chalmers.se/en/departments/cse/) department of [Chalmers University of Technology](https://www.chalmers.se) in Göteborg, Sweden. 
 
 My research interests lie in the area of high-performance computing. Here is a non-exhaustive list:
 - HPC application acceleration/optimization/deployment/tuning
