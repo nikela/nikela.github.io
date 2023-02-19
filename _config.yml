@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikela Papadopoulou webpage"
+title                    : "Nikela Papadopoulou"
 title_separator          : "-"
 name                     : &name "Nikela Papadopoulou"
 description              : &description "personal description"
@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _bio
   - scope:
       path: ""
-      type: posts
+      type: bio
     values:
       layout: single
       author_profile: true
@@ -202,10 +202,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _projects
   - scope:
       path: ""
-      type: pages
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -227,24 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
