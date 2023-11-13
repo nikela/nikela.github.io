@@ -1,0 +1,9 @@
+---
+layout: default
+title: "Optimizing resource utilization on large-scale systems through predictive communication modeling"
+authors: Nikela Papadopoulou, Georgios Goumas, Nectarios Koziris
+venue: "NovExS-RAMbO: Workshop on Novel Exascale Systems / Rack-Scale Memory Systems and Models at HiPEAC 2017, Stochkolm, Sweden, 2017"
+year: 2017
+paperurl: files/publications/papers/papadopoulou2017optimizing.pdf
+citation: files/publications/citations/papadopoulou2017optimizing.bib
+---
