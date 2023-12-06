@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a post-doctoral researcher at the Computer Systems division of the [CSE](https://www.chalmers.se/en/departments/cse/) department of [Chalmers University of Technology](https://www.chalmers.se) in Göteborg, Sweden. 
+Welcome! I am a post-doctoral researcher at the Computer Systems division of the [CSE](https://www.chalmers.se/en/departments/cse/) department of [Chalmers University of Technology](https://www.chalmers.se) in Göteborg, Sweden. In January 2024, I will be joining the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) of the University of Glasgow as a Lecturer (Assistant Professor).
 
 My research interests lie in the area of high-performance computing. Here is a non-exhaustive list:
 - HPC application acceleration/optimization/deployment/tuning

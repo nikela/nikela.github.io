@@ -1,0 +1,17 @@
+@inproceedings{gupta2023challenges,
+author = {Gupta, Sonia Rani and Papadopoulou, Nikela and Peric\`{a}s, Miquel},
+title = {Challenges and Opportunities in the Co-Design of Convolutions and RISC-V Vector Processors},
+year = {2023},
+isbn = {9798400707858},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3624062.3624232},
+doi = {10.1145/3624062.3624232},
+abstract = {The RISC-V "V" extension introduces vector processing to the RISC-V architecture. Unlike most SIMD extensions, it supports long vectors which can result in significant improvement of multiple applications. In this paper, we present our ongoing research to implement and optimize a vectorized Winograd algorithm used in convolutional layers on RISC-V Vector(RISC-VV) processors. Our study identifies effective techniques for optimizing the kernels of Winograd on RISC-VV using intrinsic instructions, and showcases how certain instructions offer better performance. Our co-design findings suggest that the Winograd algorithm benefits from vector lengths up to 2048 bits and cache sizes up to 64MB. We use our experience with Winograd to highlight potential enhancements for the standard that would simplify code generation and aid low-level programming. Finally, we share our experience from experimenting with forks of gem5 for RISC-VV and stress the importance of a mature software ecosystem, to facilitate design space exploration and architectural optimization. Our study identifies effective techniques for optimizing the kernels of Winograd on RISC-VV using the available intrinsic instructions and showcases that certain instructions offer better performance to the vectorized algorithm. Furthermore, our co-design study reveals that the Winograd algorithm benefits from vector lengths up to 2048 bits and cache sizes up to 64MB.},
+booktitle = {Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis},
+pages = {1550–1556},
+numpages = {7},
+keywords = {RISC-V Vector extension, ARM-SVE, Optimization, Winograd, Performance},
+location = {Denver, CO, USA},
+series = {SC-W '23}
+}

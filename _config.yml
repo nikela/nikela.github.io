@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikela Papadopoulou"
-  avatar           : "profile.png"
+  avatar           : "nikela.jpg"
   bio              : "Post-doctoral researcher"
   location         : "Sweden"
   employer         :
@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - custom_scripts
 keep_files:
   - .git
   - .svn

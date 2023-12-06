@@ -10,31 +10,49 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-----
+* PhD. in Electrical and Computer Engineering, ECE, NTUA, 2017.
+* Diploma (M.Eng.). in Electrical and Computer Engineering, ECE, NTUA, 2012.
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+-----
+* 2022-present: Post-doctoral Researcher
+  * Division of Computer and Network Systems (CNS)
+  * Departement of Computer Science and Engineering (CSE)
+  * Chalmers University of Technology, Sweden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017-2022: Post-doctoral Researcher
+  * Computing Systems Laboratory (CSLab) 
+  * School of Electrical and Computer Engineering
+  * National Technical University of Athens, Greece
+
+* 2017-2022: Researcher
+  * Institute of Computing and Communication Systems (ICCS), Greece
+  * *Affiliated with the National Technical University of Athens*
+
+* 2012-2017: Graduate Research Assistant
+  * Computing Systems Laboratory (CSLab)
+  * School of Electrical and Computer Engineering
+  * National Technical University of Athens, Greece
+
+* 2016: Research Aide
+   * Mathematics and Computer Science Division (MCS)
+   * Argonne National Laboratory, IL, USA
+   
+Research projects (funded)
+-----
+
+### Currently involved in:
+* The European PILOT: The European PILOT project (Pilot using Independent, Local and Open Technologies) aims at showcasing an European accelerator, designed, implemented, manufactured, and owned by Europe and based on open source and open standards. 2022- [(website)](https://eupilot.eu/)
+* eProcessor: European, extendable, energy-efficient, energetic, embedded, extensible, Processor Ecosystem. 2022- [(website)](https://eprocessor.eu/)
+
+### Past projects:
+* REGALE: An open architecture to equip next generation HPC applications with exascale capabilities. 2022. [(website)](https://regale-project.eu/)
+* CYBELE: Fostering precision agriculture and livestock farming through secure access to large-scale HPC-enabled virtual industrial experimentation environment, empowering scalable big data analytics. 2019-2022. [(website)](https://cybele-project.eu/)
+* HiDALGO: HPC and Big Data Technologies for Global Systems. 2018-2022. [(website)](https://hidalgo-project.eu/)
+* EuroEXA: Co-designed Innovation and System for Resilient Exascale Computing in Europe: From Applications to Silicon. 2017-2022. [(website)](https://euroexa.eu/)
+* ActiCLOUD: ACTivating resource efficiency and large databases in the CLOUD. 2019. [(website)](https://acticloud.eu/)
+
 
 Publications
 ======
@@ -42,11 +60,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
