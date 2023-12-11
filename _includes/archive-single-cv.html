@@ -29,9 +29,15 @@
     <h3 class="archive__item-title" itemprop="headline">
         {% if post.collection == 'publications' %} 
             {{ post.title }} 
+	{% elsif post.collection == 'teaching' %}
+	    {{ post.title }}
         {% endif %}
     </h3>
+    {% if post.collection == 'publications' %}
     <p> <i> {{post.authors }}</i>. {{ post.year | year: "%Y" }}. <br> {{ post.venue }}.</p>
+    {% elsif post.collection == 'teaching' %}
+    <p> {{ post.venue }}. {{ post.year | year: "%Y" }} </p>
+    {% endif %}
     </li>
  </article>
 </div>
