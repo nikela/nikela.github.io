@@ -180,13 +180,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -218,7 +218,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -227,7 +227,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: true
+      comments: false
 # Sass/SCSS
 sass:
   sass_dir: _sass
