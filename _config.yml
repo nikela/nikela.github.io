@@ -86,7 +86,7 @@ author:
   location         : "Sweden"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LJ1SVE0AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=LJ1SVE0AAAAJ"
   email            : "nikela.papadopoulou@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://linkedin.com/in/nikelapapadopoulou"
-  orcid            : "http://orcid.org/0000-0003-2141-5654"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "_nikela_"
+  twitter          : "https:/twitter.com/_nikela_"
   vine             :
   weibo            :
   xing             :
