@@ -1,17 +1,14 @@
 # main links links
 main:
+  - title: "About me"
+    url: /
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Projects"
-    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
        
   - title: "CV"
     url: /cv/
-    
-#TODO: remove
-  - title: "Guide"
-    url: /markdown/
+   
