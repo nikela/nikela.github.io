@@ -67,6 +67,27 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* AsHES Workshop @ IPDPS 2024, Program Co-Chair
+* HIPS Workshop @ IPDPS 2024, TPC Member
+* HiPC 2023, TPC Member
+* IDPDC 2023, TPC Member
+* ACM ICS 2023, TPC Member
+* FPL 2023, Proceedings Chair
+* AsHES Workshop @ IPDPS 2024, Program Co-Chair
+* HIPS Workshop @ IPDPS 2023, TPC Member
+* ICCS Multiscale Modeling and Simulation Workshop 2023, PC Member
+* ARCS 2022, Program Co-Chair
+* ACM ICS 2022, TPC Member
+* Computing Frontiers 2022, TPC Member
+* ISPDC 2022, TPC Member
+* AsHES Workshop @ IPDPS 2022, TPC Member
+* ICCS Multiscale Modeling and Simulation Workshop 2022, PC Member
+* AsHES Workshop @ IPDPS 2021, TPC Member
+* ICCS Multiscale Modeling and Simulation Workshop 2021, PC Member
+* Computing Frontiers 2021, TPC Member
+* ICCS Multiscale Modeling and Simulation Workshop 2020, PC Member
+* AsHES Workshop @ IPDPS 2020, TPC Member
+* HiPINEB Workshop @ HPCA 2019, TPC Member
+* EuroMPI/USA 2018, Posters Committee Member
