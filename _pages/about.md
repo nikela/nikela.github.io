@@ -29,7 +29,7 @@ Short Bio
 ======
 I received my Diploma (MEng) in [Electrical and Computer Engineering](https://www.ece.ntua.gr) in 2012, from the [National Technical University of Athens](https://www.ntua.gr), Greece. In 2017, I received my PhD in Electrical and Computer Engineering from the same university.
 
-From 2012 to 2017, as a PhD student, I was a member of the [Computing Systems Laboratory] (https://cslab.ece.ntua.gr) at ECE, NTUA. My PhD thesis, supervised by Georgios Goumas, focused on building accurate prediction models for the communication time of HPC applications at scale, to achieve better resource allocation and usage. During my PhD studies, I visited the MCS division of [Argonne National Laboratory](https://www.anl.gov/mcs) in USA, as a research aide, and worked on UCX, a communication framework for high-bandwidth, low-latency networks.  
+From 2012 to 2017, as a PhD student, I was a member of the [Computing Systems Laboratory](https://cslab.ece.ntua.gr) at ECE, NTUA. My PhD thesis, supervised by Georgios Goumas, focused on building accurate prediction models for the communication time of HPC applications at scale, to achieve better resource allocation and usage. During my PhD studies, I visited the MCS division of [Argonne National Laboratory](https://www.anl.gov/mcs) in USA, as a research aide, and worked on UCX, a communication framework for high-bandwidth, low-latency networks.  
 
 From 2017 to 2022, I was a researcher at the [Computing Systems Laboratory](http://cslab.ece.ntua.gr), and I participated in multiple research activities in the HPC domain, including several EU-funded projects. 
 
