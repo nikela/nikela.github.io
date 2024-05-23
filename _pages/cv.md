@@ -16,7 +16,12 @@ Education
 
 Work experience
 -----
-* 2022-present: Post-doctoral Researcher
+* 2024-: Lecturer in Low Carbon and Sustainable Computing
+  * School of Computing Science (SoCS)
+  * College of Science and Engineering (CoSE)
+  * University of Glasgow, UK
+
+* 2022-2024: Post-doctoral Researcher
   * Division of Computer and Network Systems (CNS)
   * Departement of Computer Science and Engineering (CSE)
   * Chalmers University of Technology, Sweden
@@ -41,12 +46,9 @@ Work experience
    
 Research projects (funded)
 -----
-
-### Currently involved in:
+### Past projects:
 * The European PILOT: The European PILOT project (Pilot using Independent, Local and Open Technologies) aims at showcasing an European accelerator, designed, implemented, manufactured, and owned by Europe and based on open source and open standards. 2022- [(website)](https://eupilot.eu/)
 * eProcessor: European, extendable, energy-efficient, energetic, embedded, extensible, Processor Ecosystem. 2022- [(website)](https://eprocessor.eu/)
-
-### Past projects:
 * REGALE: An open architecture to equip next generation HPC applications with exascale capabilities. 2022. [(website)](https://regale-project.eu/)
 * CYBELE: Fostering precision agriculture and livestock farming through secure access to large-scale HPC-enabled virtual industrial experimentation environment, empowering scalable big data analytics. 2019-2022. [(website)](https://cybele-project.eu/)
 * HiDALGO: HPC and Big Data Technologies for Global Systems. 2018-2022. [(website)](https://hidalgo-project.eu/)
@@ -69,10 +71,15 @@ Teaching
   
 Service 
 ======
+* HiPC 2024, TPC Member
+* SBAC-PAD 2024, TPC Member
+* EuroPar 2024, Posters & Demos Committee Member
+* CLUSTER 2024, TPC Member
+* ISPDC 2024, TPC Member
 * AsHES Workshop @ IPDPS 2024, Program Co-Chair
 * HIPS Workshop @ IPDPS 2024, TPC Member
 * HiPC 2023, TPC Member
-* IDPDC 2023, TPC Member
+* ISPDC 2023, TPC Member
 * ACM ICS 2023, TPC Member
 * FPL 2023, Proceedings Chair
 * AsHES Workshop @ IPDPS 2024, Program Co-Chair
