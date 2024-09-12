@@ -98,8 +98,7 @@ Service
 ### Journal Reviewer
 * [ACM Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco)
 * [Journal of Systems Architecture](https://www.sciencedirect.com/journal/journal-of-systems-architecture)
-* [Journal of Parallel and Distributed
-* Computing](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
+* [Journal of Parallel and Distributed Computing](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
 * [IEEE Access](https://ieeeaccess.ieee.org/)
 * [International Journal on Parallel Computing (PARCO)](https://www.sciencedirect.com/journal/parallel-computing)
 * [Software: Practice and Experience](https://onlinelibrary.wiley.com/journal/1097024x)
