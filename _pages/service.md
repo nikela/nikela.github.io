@@ -9,8 +9,6 @@ redirect_from:
   - /service.html
 ---
 
-Service 
-======
 ### Chair - Conferences/Workshops
 * AsHES Workshop @ IPDPS 2024, Program Co-Chair
 * FPL 2023, Proceedings Chair
