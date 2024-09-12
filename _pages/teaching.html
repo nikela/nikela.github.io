@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<h3>Academic Year 2024-25</h3>
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% if post.name contains "current" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h3>Past Years</h3>
+{% for post in site.teaching reversed %}
+  {% if post.name contains "current" %}
+    {% continue %}
+  {% else %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
