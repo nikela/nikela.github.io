@@ -10,15 +10,25 @@ author_profile: true
 <h3>Academic Year 2024-25</h3>
 {% for post in site.teaching reversed %}
   {% if post.url contains "current" %}
-    {% include archive-single.html %}
+    {% include teaching-single.html %}
   {% endif %}
 {% endfor %}
 
 <h3>Past Years</h3>
 {% for post in site.teaching reversed %}
-  {% if post.url contains "current" %}
+  {% if post.url contains "current" or post.ta %}
     {% continue %}
   {% else %}
-    {% include archive-single.html %}
+    {% include teaching-single.html %}
   {% endif %}
 {% endfor %}
+
+<h3>Teaching Assistantships</h3>
+{% for post in site.teaching reversed %}
+  {% if post.ta %}
+    {% include teaching-single.html %}
+  {% else %}
+    {% continue %}
+  {% endif %}
+{% endfor %}
+

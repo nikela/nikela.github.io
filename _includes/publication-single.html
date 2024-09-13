@@ -1,14 +1,27 @@
----
-layout: default
-title: Publications
----
 
-<h1 class="mt-4">Publications</h1>
-{% assign publications = site.publications | sort: "year" | reverse %}
-{% for pub in publications %}
-<div class="pubitem">
-  <div class="pubtitle">{{ pub.title }}</div>
-  <div class="pubauthors">{{ pub.authors }}</div>
-  <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+{% include base_path %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+            <p> <b>{{ post.title }}</b> 
+            {% if post.citation %}
+                <a href="{{ base_path }}/{{ post.citation }}"><u>bib</u></a>
+            {% endif %}
+            {% if post.citation and post.paperurl %}
+            , 
+            {% endif %}
+            {% if post.paperurl %}
+                <a href="{{ base_path }}/{{ post.paperurl }}"><u>pdf</u></a>
+            {% endif %}
+            <br>
+            {{ post.authors }} <br> 
+            <i>{{ post.venue }}</i>, {{ post.year | default: "1900" | year: "%Y" }}<br>
+            {% if post.doi %}
+                DOI: <i>{{ post.doi }}</i><br>
+            {% endif %}
+
+            </p><hr>
+  </article>
 </div>
-{% endfor %}
+

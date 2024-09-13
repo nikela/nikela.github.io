@@ -1,0 +1,12 @@
+{% include base_path %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if post.external_url %}
+            <p> <b><a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a></b> -- {{post.type}}, {{post.semester}}, {{ post.year | year: "%y" }} <br> {{ post.venue }}</p>
+        {% else %}
+            <p> <b>{{ post.title }}</b> -- {{post.type}}, {{post.semester}}, {{ post.year | year: "%y" }} <br> {{ post.venue }}</p>
+        {% endif %}
+  </article>
+</div>

@@ -9,7 +9,7 @@ layout: archive
 ### Chair - Conferences/Workshops
 * AsHES Workshop @ IPDPS 2024, Program Co-Chair
 * FPL 2023, Proceedings Chair
-* Ashes Workshop @ IPDPS 2023, Program Co-Chair
+* AsHES Workshop @ IPDPS 2023, Program Co-Chair
 * ARCS 2022, Program Co-Chair
 * EuroExaScale Workshop @ HiPEAC 2020, Program Co-Chair
 

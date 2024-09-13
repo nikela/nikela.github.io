@@ -9,13 +9,24 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Lecturer (Assistant Professor) in Low Carbon and Sustainable Computing at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) of the [University of Glasgow](https://www.gla.ac.uk), a member of the [GLAsgow Systems Section](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section) and the [Low Carbon and Sustainable Computing Research Theme](https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon). My research focuses on optimizing high-performance computing (HPC) systems to minimize environmental impact. This involves performance modeling, application optimization and co-design, and resource management strategies, with an emphasis on energy efficiency, low carbon footprint, and sustainability. I am particularly interested in applying these techniques to machine-learning workloads, and making AI sustainable. 
+Welcome! I am a Lecturer (Assistant Professor) in Low Carbon and Sustainable Computing at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) of the [University of Glasgow](https://www.gla.ac.uk), a member of the [GLAsgow Systems Section](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section) and the [Low Carbon and Sustainable Computing Research Theme](https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon). 
+
+My research focuses on optimizing high-performance computing (HPC) systems to minimize environmental impact. This involves performance modeling, application optimization and co-design, and resource management strategies, with an emphasis on energy efficiency, low carbon footprint, and sustainability. I am particularly interested in applying these techniques to machine-learning workloads, and making AI sustainable. 
 
 How to reach me
 =====
-If you're as into Sustainable Computing as I am, I would love to hear from you. Whether you're just looking for a friendly chat or are interested in exploring potential collaborations, please feel free to reach out to me. I'm always eager to connect with fellow researchers and share ideas.
+I am excited to connect with anyone passionate about High-Performance Computing and Sustainable Computing! If you are
+interested in discussing research, or exploring potential collaborations, feel free to reach out!
 
-Send me an [email](mailto: nikela.papadopoulou@glasgow.ac.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/nikelapapadopoulou) or [Twitter](https://www.twitter.com/_nikela_).
+Send me an [email](mailto: nikela.papadopoulou@glasgow.ac.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/nikelapapadopoulou).
+
+If you are a student at the University of Glasgow, and you are considering a Level 4/MSc project in High-Performance
+Computing or Sustainable Computing, please also share your background and interests. 
+
+If you are considering a PhD, I am looking for motivated individuals and I am open to discussing research interests and
+potential projects. Please include a brief overview of your research goals and relevant experience in your message.
+[Studentships](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/studentshipinformation)
+are available through the School of Computing Scienece at the University of Glasgow. 
 
 Short Bio
 ======

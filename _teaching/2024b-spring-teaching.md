@@ -1,5 +1,6 @@
 ---
 title: "Internet Technology (COMPSCI5012)"
+external_url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5012
 collection: teaching
 type: "MSc course / Level 5"
 permalink: /teaching/2024b-spring-teaching

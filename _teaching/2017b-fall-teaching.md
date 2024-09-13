@@ -7,6 +7,7 @@ venue: "ECE, National Technical University of Athens"
 semester: "Fall"
 year: "2017-2018"
 location: "Athens, Greece"
-role: "Lab assistant"
+role: "Teaching Assistant"
+ta: yes
 ---
 
