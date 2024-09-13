@@ -4,9 +4,6 @@ title: "Service"
 excerpt: "Service"
 author_profile: true
 layout: archive
-redirect_from: 
-  - /service/
-  - /service.html
 ---
 
 ### Chair - Conferences/Workshops
