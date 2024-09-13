@@ -26,3 +26,8 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'webrick'
 end
+
+gem "jekyll", "~> 3.9"
+#gem "jekyll", "~> 3.9"
+
+gem "forwardable-extended", "~> 2.6"

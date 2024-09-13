@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /service/
 title: "Service"
 excerpt: "Service"
 author_profile: true
