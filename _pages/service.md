@@ -7,6 +7,7 @@ layout: archive
 ---
 
 ### Chair - Conferences/Workshops
+* AsHES Workshop @ IPDPS 2025, General Chair
 * AsHES Workshop @ IPDPS 2024, Program Co-Chair
 * FPL 2023, Proceedings Chair
 * AsHES Workshop @ IPDPS 2023, Program Co-Chair
@@ -25,7 +26,8 @@ layout: archive
 * EuroMPI/USA 2018 (Posters)
 
 ### PC Member - Workshops
-* HIPS Workshop @ IPDPS 2023-2024
+* ExHET Workshop @ PPoPP 2025
+* HIPS Workshop @ IPDPS 2023-2025
 * ICCS Multiscale Modeling and Simulation Workshop 2020-2024
 * AsHES Workshop @ IPDPS 2020-2022
 * HiPINEB Workshop @ HPCA 2019
