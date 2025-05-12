@@ -17,21 +17,16 @@ layout: archive
 ### PC Member - Conferences
 * EuroPar 2025
 * IEEE CLOUD 2025
+* SAMOS XXV
+* IEEE/SBC SBAC-PAD 2024-2025
+* IEEE CLUSTER 2024-2025
 * SC25 Workshops & Symposiums 
-* IEEE HiPC 2025
-* IEEE/SBC SBAC-PAD 2024
-* IEEE CLUSTER 2024
-* ISPDC 2024
+* IEEE HiPC 2023-2025
 * EuroPar 2024 (Posters & Demos)
 * ICPP 2024 (Posters)
-* ISPDC 2024
-* IEEE HiPC 2024
-* ACM ICS 2023
-* IEEE HiPC 2023
-* ISPDC 2022
-* ACM ICS 2022
-* Computing Frontiers 2022
-* Computing Frontiers 2021
+* ISPDC 2022-2024
+* ACM ICS 2022-2023
+* Computing Frontiers 2021-2022
 * EuroMPI/USA 2018 (Posters)
 
 ### PC Member - Workshops
